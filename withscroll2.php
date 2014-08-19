@@ -1,4 +1,7 @@
 <?php
+
+echo 'test2';
+
 error_reporting(0);
   $db = new mysqli("172.16.0.87", "devteam", "d3vt3@m" ,"www2-innov8tive");
 
